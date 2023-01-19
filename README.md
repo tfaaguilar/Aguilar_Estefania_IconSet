@@ -1,6 +1,6 @@
 # Set of Travel Icons
 
-TODO: Creating icons abour traveling.
+TODO: Creating icons about traveling.
 
 ## Contributing
 
