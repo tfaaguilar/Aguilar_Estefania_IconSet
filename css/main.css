@@ -1,0 +1,35 @@
+.hidden {
+    display: none;
+}
+
+*{
+    border: none;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    background-color: #fff;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.icons {
+    text-align: center;
+}
+
+.icons h2 {
+    font-size: 2em;
+    margin: 10px 0;
+}
+
+.icons div {
+    width: 20%;
+    display: inline-block;
+}
+
+.icons div img {
+    width: 40%;
+}
