@@ -11,7 +11,7 @@
 
 body {
     font-size: 16px;
-    background-color: rgba(189, 240, 132, 0.404);
+    background-color: rgba(197, 235, 108, 0.404);
     color: black;
     font-family: 'Handlee', Arial, sans-serif;
 }
@@ -28,8 +28,16 @@ body {
 .icons div {
     width: 20%;
     display: inline-block;
+    
 }
 
 .icons div img {
     width: 40%;
+    cursor: pointer;
 }
+
+h3 {
+    cursor: pointer;
+    color: rgb(47, 100, 4);
+}
+
