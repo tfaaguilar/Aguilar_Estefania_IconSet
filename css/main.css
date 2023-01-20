@@ -18,11 +18,15 @@ body {
 
 .icons {
     text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
 }
 
 .icons h2 {
+    font-family:'Handlee', Arial, sans-serif;
     font-size: 2em;
-    margin: 10px 0;
+    color: rgb(119, 104, 134);
+    margin: 20px 0;
 }
 
 .icons div {
