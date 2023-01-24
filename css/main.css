@@ -40,8 +40,10 @@ body {
     cursor: pointer;
 }
 
-#anchor1 {
+#newanchor {
     cursor: pointer;
-    color: rgb(47, 100, 4);
 }
 
+#newanchor:hover #border-2 {fill: rgb(54, 80, 6);}
+#newanchor:hover #bluebackground {fill: rgb(4, 12, 78);}
+#newanchor:hover #fill-2 {fill: rgb(165, 236, 34);}

@@ -1,6 +1,6 @@
 console.log('Javascript is running');
 
-let vectorAnchor = document.querySelector("#vectorAnchor");
+let theanchor = document.querySelector("#newanchor");
 let vectorBag = document.querySelector("#vectorBag");
 let vectorCoctail = document.querySelector("#vectorCoctail");
 let vectorHotel = document.querySelector("#vectorHotel");
@@ -14,10 +14,10 @@ let vectorShip = document.querySelector("#vectorShip");
 let vectorTent = document.querySelector("#vectorTent");
 
 function logID() {
-    console.log(this.id);
+    console.log('user clicked on this graphic', this.id);
 }
 
-vectorAnchor.addEventListener('click', logID);
+theanchor.addEventListener('click', logID);
 vectorBag.addEventListener('click', logID);
 vectorCoctail.addEventListener('click', logID);
 vectorHotel.addEventListener('click', logID);
