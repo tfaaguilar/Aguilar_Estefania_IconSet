@@ -13,6 +13,9 @@
       .cls-3 {
         fill: #324654;
       }
+
+#anchor:hover #bluebackground { fill: orange; }
+
     </style>
   </defs>
   <g id="background">
