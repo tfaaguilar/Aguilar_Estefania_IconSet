@@ -40,9 +40,10 @@ body {
     cursor: pointer;
 }
 
-#anchor {
-    cursor: pointer;
-}
+#anchor {cursor: pointer;}
+#bag {cursor: pointer;}
+#map {cursor: pointer;}
+#plane { cursor: pointer;}
 
 #anchor:hover #background {fill: rgb(152, 170, 120);}
 #anchor:hover #bluefill {fill: rgb(243, 233, 91);}
@@ -50,3 +51,24 @@ body {
 #anchor:hover #anchortext { fill: rgb(180, 106, 174); transform: rotate(350deg);}
 #anchor:hover  #anchorstar { fill: rgb(247, 194, 124);}
 #anchortext { transition: all 0.5s ease; transform-origin: 50%;}
+
+#bag:hover #bagbackground {fill: rgb(170, 120, 163);}
+#bag:hover #bagfill {fill: rgb(91, 220, 243);}
+#bag:hover #bagborder {fill: rgb(50, 66, 21); transform: rotate(3deg); }
+#bag:hover #bagtext { fill: rgb(180, 175, 106); transform: rotate(350deg);}
+#bag:hover  #bagstar { fill: rgb(160, 223, 15);}
+#bagtext { transition: all 0.5s ease; transform-origin: 50%;}
+
+#map:hover #mapbackground {fill: rgb(55, 206, 226);}
+#map:hover #mapfill {fill: rgb(91, 243, 98);}
+#map:hover #mapborder {fill: rgb(42, 21, 66); transform: rotate(3deg); }
+#map:hover #maptext { fill: rgb(106, 180, 134); transform: rotate(350deg);}
+#map:hover  #mapstar { fill: rgb(223, 15, 171);}
+#maptext { transition: all 0.5s ease; transform-origin: 50%;}
+
+#plane:hover #planebackground {fill: rgb(234, 243, 113);}
+#plane:hover #planefill {fill: rgb(231, 177, 210);}
+#plane:hover #planeborder {fill: rgb(189, 20, 161); transform: rotate(3deg); }
+#plane:hover #planetext { fill: rgb(126, 12, 192); transform: rotate(350deg);}
+#plane:hover  #planestar { fill: rgb(10, 139, 53);}
+#planetext { transition: all 0.5s ease; transform-origin: 50%;}
