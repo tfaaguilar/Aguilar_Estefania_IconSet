@@ -40,10 +40,13 @@ body {
     cursor: pointer;
 }
 
-#newanchor {
+#anchor {
     cursor: pointer;
 }
 
-#newanchor:hover #border-2 {fill: rgb(54, 80, 6);}
-#newanchor:hover #bluebackground {fill: rgb(4, 12, 78);}
-#newanchor:hover #fill-2 {fill: rgb(165, 236, 34);}
+#anchor:hover #background {fill: rgb(152, 170, 120);}
+#anchor:hover #bluefill {fill: rgb(243, 233, 91);}
+#anchor:hover #externalborder {fill: rgb(134, 168, 71); transform: rotate(3deg); }
+#anchor:hover #anchortext { fill: rgb(180, 106, 174); transform: rotate(350deg);}
+#anchor:hover  #anchorstar { fill: rgb(247, 194, 124);}
+#anchortext { transition: all 0.5s ease; transform-origin: 50%;}
