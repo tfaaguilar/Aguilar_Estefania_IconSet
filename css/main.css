@@ -53,7 +53,7 @@ body {
 
 #anchor:hover #background {fill: rgb(152, 170, 120);}
 #anchor:hover #bluefill {fill: rgb(243, 233, 91);}
-#anchor:hover #externalborder {fill: rgb(134, 168, 71); transform: rotate(3deg); }
+#anchor:hover #externalborder {fill: rgb(63, 90, 14); transform: rotate(3deg); }
 #anchor:hover #anchortext { fill: rgb(180, 106, 174); transform: rotate(350deg);}
 #anchor:hover  #anchorstar { fill: rgb(247, 194, 124);}
 #anchortext { transition: all 0.5s ease; transform-origin: 50%;}
@@ -79,9 +79,9 @@ body {
 #plane:hover  #planestar { fill: rgb(10, 139, 53);}
 #planetext { transition: all 0.5s ease; transform-origin: 50%;}
 
-#lsaver:hover #lsaverbackground {fill: rgb(107, 80, 82);}
-#lsaver:hover #lsaverfill {fill: rgb(139, 158, 173);}
-#lsaver:hover #lsaverborder {fill: rgb(236, 226, 235); transform: rotate(3deg); }
+#lsaver:hover #lsaverbackground {fill: rgb(182, 132, 135);}
+#lsaver:hover #lsaverfill {fill: rgb(161, 205, 238);}
+#lsaver:hover #lsaverborder {fill: rgb(216, 51, 101); transform: rotate(3deg); }
 #lsaver:hover #lsavertext { fill: rgb(145, 93, 16); transform: rotate(350deg);}
 #lsaver:hover  #lsaverstar { fill: rgb(211, 93, 235);}
 #lsavertext { transition: all 0.5s ease; transform-origin: 50%;}
@@ -93,30 +93,30 @@ body {
 #tent:hover  #tentstar { fill: rgb(93, 110, 168);}
 #tenttext { transition: all 0.5s ease; transform-origin: 50%;}
 
-#sandals:hover #sandalsbackground {fill: rgb(243, 95, 105);}
+#sandals:hover #sandalsbackground {fill: rgb(243, 189, 107);}
 #sandals:hover #sandalsfill {fill: rgb(164, 179, 125);}
-#sandals:hover #sandalsborder {fill: rgb(78, 42, 75); transform: rotate(3deg); }
+#sandals:hover #sandalsborder {fill: rgb(112, 56, 134); transform: rotate(3deg); }
 #sandals:hover #sandalstext { fill: rgb(236, 183, 103); transform: rotate(350deg);}
-#sandals:hover  #sandalsstar { fill: rgb(55, 42, 58);}
+#sandals:hover  #sandalsstar { fill: rgb(238, 10, 97);}
 #sandalstext { transition: all 0.5s ease; transform-origin: 50%;}
 
-#island:hover #islandbackground {fill: rgb(243, 95, 105);}
+#island:hover #islandbackground {fill: rgb(168, 128, 67);}
 #island:hover #islandfill {fill: rgb(164, 179, 125);}
 #island:hover #islandborder {fill: rgb(78, 42, 75); transform: rotate(3deg); }
 #island:hover #islandtext { fill: rgb(236, 183, 103); transform: rotate(350deg);}
-#island:hover  #islandstar { fill: rgb(55, 42, 58);}
+#island:hover  #islandstar { fill: rgb(122, 37, 141);}
 #islandtext { transition: all 0.5s ease; transform-origin: 50%;}
 
 #mountain:hover #mountainbackground {fill: rgb(243, 95, 105);}
 #mountain:hover #mountainfill {fill: rgb(164, 179, 125);}
 #mountain:hover #mountainborder {fill: rgb(78, 42, 75); transform: rotate(3deg); }
 #mountain:hover #mountaintext { fill: rgb(236, 183, 103); transform: rotate(350deg);}
-#mountain:hover  #mountainstar { fill: rgb(55, 42, 58);}
+#mountain:hover  #mountainstar { fill: rgb(109, 27, 128);}
 #mountaintext { transition: all 0.5s ease; transform-origin: 50%;}
 
-#ship:hover #shipbackground {fill: rgb(95, 17, 22);}
-#ship:hover #shipfill {fill: rgb(70, 90, 21);}
+#ship:hover #shipbackground {fill: rgb(236, 226, 74);}
+#ship:hover #shipfill {fill: rgb(226, 193, 201);}
 #ship:hover #shipborder {fill: rgb(38, 105, 204); transform: rotate(3deg); }
 #ship:hover #shiptext { fill: rgb(248, 103, 212); transform: rotate(350deg);}
-#ship:hover  #shipstar { fill: rgb(59, 4, 71);}
+#ship:hover  #shipstar { fill: rgb(22, 192, 214);}
 #shiptext { transition: all 0.5s ease; transform-origin: 50%;}
