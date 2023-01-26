@@ -114,9 +114,9 @@ body {
 #mountain:hover  #mountainstar { fill: rgb(55, 42, 58);}
 #mountaintext { transition: all 0.5s ease; transform-origin: 50%;}
 
-#ship:hover #shipbackground {fill: rgb(243, 95, 105);}
-#ship:hover #shipfill {fill: rgb(164, 179, 125);}
-#ship:hover #shipborder {fill: rgb(78, 42, 75); transform: rotate(3deg); }
-#ship:hover #shiptext { fill: rgb(236, 183, 103); transform: rotate(350deg);}
-#ship:hover  #shipstar { fill: rgb(55, 42, 58);}
+#ship:hover #shipbackground {fill: rgb(95, 17, 22);}
+#ship:hover #shipfill {fill: rgb(70, 90, 21);}
+#ship:hover #shipborder {fill: rgb(38, 105, 204); transform: rotate(3deg); }
+#ship:hover #shiptext { fill: rgb(248, 103, 212); transform: rotate(350deg);}
+#ship:hover  #shipstar { fill: rgb(59, 4, 71);}
 #shiptext { transition: all 0.5s ease; transform-origin: 50%;}
